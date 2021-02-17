@@ -1,0 +1,9 @@
+jo_nap = input("Jó napod volt-e koma? # igen/nem     ")
+
+if jo_nap == "igen":
+  print("Örülök neki tesó!!!!")
+elif jo_nap == "nem":
+  print("Hogy a fene egye meg nagyon sajnálom koma, remélem miharabb jóra fordulnaka a dolgok")
+elif jo_nap != "igen" and "nem":
+  print("Sajnálom nem értem a választ")
+print("A program befejezödött Pápá!!!")
